@@ -1,3 +1,4 @@
 fn main() {
-    print!("learning")
+    println!("learning");
+    println!("{}",10)
 }
